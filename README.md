@@ -1,6 +1,10 @@
 # Retail Store
+
 ## Prerequisites
+
 Visual studio 2017 or .net Framework 4.6.
+
+## Description
 
 Technology assessment for retail store project.
 

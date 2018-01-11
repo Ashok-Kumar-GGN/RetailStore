@@ -1,0 +1,17 @@
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\RetailStore.Test.dll
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\RetailStore.Test.pdb
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\RetailStore.Shared.Billing.dll
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\RetailStore.Shared.Contracts.dll
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\RetailStore.Shared.Billing.pdb
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\RetailStore.Shared.Contracts.pdb
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Work Area\RetailStore\RetailStore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Work Area\RetailStore\RetailStore.Test\obj\Debug\RetailStore.Test.csprojResolveAssemblyReference.cache
+E:\Work Area\RetailStore\RetailStore.Test\obj\Debug\RetailStore.Test.csproj.CoreCompileInputs.cache
+E:\Work Area\RetailStore\RetailStore.Test\obj\Debug\RetailStore.Test.dll
+E:\Work Area\RetailStore\RetailStore.Test\obj\Debug\RetailStore.Test.pdb

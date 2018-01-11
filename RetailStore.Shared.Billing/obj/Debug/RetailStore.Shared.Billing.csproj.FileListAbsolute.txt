@@ -1,0 +1,8 @@
+E:\Work Area\RetailStore\RetailStore.Shared.Billing\bin\Debug\RetailStore.Shared.Billing.dll
+E:\Work Area\RetailStore\RetailStore.Shared.Billing\bin\Debug\RetailStore.Shared.Billing.pdb
+E:\Work Area\RetailStore\RetailStore.Shared.Billing\obj\Debug\RetailStore.Shared.Billing.csprojResolveAssemblyReference.cache
+E:\Work Area\RetailStore\RetailStore.Shared.Billing\obj\Debug\RetailStore.Shared.Billing.csproj.CoreCompileInputs.cache
+E:\Work Area\RetailStore\RetailStore.Shared.Billing\obj\Debug\RetailStore.Shared.Billing.dll
+E:\Work Area\RetailStore\RetailStore.Shared.Billing\obj\Debug\RetailStore.Shared.Billing.pdb
+E:\Work Area\RetailStore\RetailStore.Shared.Billing\bin\Debug\RetailStore.Shared.Contracts.dll
+E:\Work Area\RetailStore\RetailStore.Shared.Billing\bin\Debug\RetailStore.Shared.Contracts.pdb
